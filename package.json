@@ -1,0 +1,25 @@
+{
+  "name": "mongoblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "save": "^2.3.0",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimothyBrunk/Coding_for_the_Blog_of_It.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimothyBrunk/Coding_for_the_Blog_of_It/issues"
+  },
+  "homepage": "https://github.com/TimothyBrunk/Coding_for_the_Blog_of_It#readme"
+}
